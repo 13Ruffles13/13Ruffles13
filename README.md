@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- ✨ Currently working on various projects.
+- ⚡ LeetCode is Key!
+- ☕ Enjoy the day with a cup of coffee.
+
+### Find me on:
+
+- LinkedIn 💬 : https://www.linkedin.com/in/rafael-alvarado-jr-bb4509230/
+
 <!--
 **13Ruffles13/13Ruffles13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
