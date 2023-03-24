@@ -6,7 +6,7 @@
 
 ### Find me on:
 
-- LinkedIn 💬 : https://www.linkedin.com/in/rafael-alvarado-jr-bb4509230/
+- LinkedIn 💬 : https://www.linkedin.com/in/rafael-alvarado-jr/
 
 <!--
 **13Ruffles13/13Ruffles13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
