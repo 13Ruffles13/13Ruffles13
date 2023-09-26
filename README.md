@@ -4,7 +4,7 @@ I'm Rafael Alvarado, a passionate Software Engineer who thrives on crafting inno
 # Find me on:
 
 - LinkedIn 🗣 : https://www.linkedin.com/in/rafael-alvarado-jr/
-- Twitter ❌: https://twitter.com/13Ruffles13
+- Twitter X : https://twitter.com/13Ruffles13
 
 <!--
 **13Ruffles13/13Ruffles13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
