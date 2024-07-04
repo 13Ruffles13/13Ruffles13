@@ -1,11 +1,13 @@
 # Hello, World! 👋
-I'm Rafael Alvarado, a passionate Software Engineer who thrives on crafting innovative solutions. Currently immersed in diverse projects that challenge my skills and broaden my horizons. LeetCode enthusiast, always up for the next coding challenge. When I'm not coding, you can find me enjoying life's moments with a cup of coffee in hand. Let's connect and create some digital magic! ✨☕🚀
 
-# Find me on:
+I'm Rafael Alvarado, a passionate Software Engineer who loves crafting innovative solutions. Currently, I'm deeply engaged in diverse projects that challenge my skills and expand my horizons. I thrive on LeetCode challenges and am always eager for the next coding adventure. When I'm not coding, you'll often find me savoring life's moments with a cup of coffee in hand. Let's connect and create some digital magic! ✨☕🚀
 
-- LinkedIn 🗣 : https://www.linkedin.com/in/rafael-alvarado-jr/
-- Twitter ❌ : https://twitter.com/13Ruffles13
+## Find me on:
 
+- **LinkedIn**: [Rafael Alvarado Jr.](https://www.linkedin.com/in/rafael-alvarado-jr/)
+- **Twitter**: [Twitter Handle](https://twitter.com/13Ruffles13)
+
+Feel free to reach out—I'm always up for a chat or collaboration!
 <!--
 **13Ruffles13/13Ruffles13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
